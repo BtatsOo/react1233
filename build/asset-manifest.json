@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71286e5e.css",
+    "main.js": "/static/js/main.24d1562c.js",
+    "static/media/welcome.png": "/static/media/welcome.204205dd1f377326e033.png",
+    "static/media/Jozoor Font.otf": "/static/media/Jozoor Font.ae961500352e50f68fd2.otf",
+    "static/media/bg.jpg": "/static/media/bg.1ca0a9b46d3b84d8a79f.jpg",
+    "static/media/Monadi.ttf": "/static/media/Monadi.31fa59135c6abb688019.ttf",
+    "static/media/backgr.png": "/static/media/backgr.2e1d1ad247ae2d43f1bd.png",
+    "index.html": "/index.html",
+    "main.71286e5e.css.map": "/static/css/main.71286e5e.css.map",
+    "main.24d1562c.js.map": "/static/js/main.24d1562c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71286e5e.css",
+    "static/js/main.24d1562c.js"
+  ]
+}
